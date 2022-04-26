@@ -9,4 +9,3 @@ def fizzbuzz():
         elif (i % 5 == 0):
             mot = "Buzz"
         print("{}".format(mot), end=' ')
-        
