@@ -1,0 +1,6 @@
+#!/bin/bash
+$PYFILE = $1
+
+source /path/to/env/bin/activate
+# echo $PWD
+env python -u $PYFILE
