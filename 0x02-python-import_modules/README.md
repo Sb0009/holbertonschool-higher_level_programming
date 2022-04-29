@@ -3,7 +3,7 @@
 ## Description
 What you should learn from this project:
 
-Why Python programming is awesome (don’t forget to tweet today, with the hashtag #pythoniscool :))
+Why Python programming is awesome
 How to import functions from another file
 How to use imported functions
 How to create a module
