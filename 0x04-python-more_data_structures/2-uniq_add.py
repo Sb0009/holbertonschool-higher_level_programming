@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-    Write a function that adds all unique integers in a list (only once for each integer).
+    Write a function that adds all unique integers in a list (only once for each integer)
 '''
 
 
