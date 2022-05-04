@@ -1,7 +1,14 @@
 #!/usr/bin/python3
+'''
+Write a function that adds all unique integers in a list
+'''
+
+
 def uniq_add(my_list=[]):
-    for x in my_list:
-        if (my_list.count(x) > 1):
-            my_list.remove(x)
-    total = sum(my_list)
-    return (total)
+
+    total = 0
+
+    for number in set(my_list):
+        total += number
+
+    return total
