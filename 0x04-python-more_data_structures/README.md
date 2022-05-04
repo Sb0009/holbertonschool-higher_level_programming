@@ -1,3 +1,4 @@
+![magic (1)](https://user-images.githubusercontent.com/96126445/166703684-d14413bc-6268-493e-adcd-211549750281.png)
 # 0x04. Python - more data & more structures
 
 
