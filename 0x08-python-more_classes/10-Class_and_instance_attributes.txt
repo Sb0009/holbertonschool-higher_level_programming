@@ -1,0 +1,9 @@
+### Write a blog post describing how object and class attributes work.
+---
+
+    - What’s a class attribute
+    - What’s an instance attribute
+    - What are all the ways to create them and what is the Pythonic way of doing it
+    - What are the differences between class and instance attributes
+    - What are the advantages and drawbacks of each of them
+    - How does Python deal with the object and class attributes using the __dict__
