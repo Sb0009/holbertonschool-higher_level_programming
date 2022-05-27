@@ -42,7 +42,7 @@ class TestMaxInteger(unittest.TestCase):
         list = None
         self.assertRaises(TypeError, max_integer, list)
 
-        list = ["Hola", 2, 3]
+        list = ["Hello", 2, 3]
         self.assertRaises(TypeError, max_integer, list)
 
 
