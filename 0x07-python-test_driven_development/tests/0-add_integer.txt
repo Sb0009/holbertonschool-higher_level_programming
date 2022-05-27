@@ -16,7 +16,7 @@ When 1 argument positive/negative
 >>> add_integer(-12565586556656562)
 -12565586556656464
 
-When 2 arguments positives/negatives int/floats
+When 2 arguments positives/negatives int/float
 -----------------------------------------------
 >>> add_integer(1,2)
 3
