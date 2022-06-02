@@ -84,4 +84,6 @@
 
 ### [19. File to instances](./models/base.py)
 * Update the class Base by adding the class method def load_from_file(cls): that returns a list of instances:
-Sb0009 </p> 
+ </p> 
+  --- 
+  - Author : Siham Badyine Sb0009
