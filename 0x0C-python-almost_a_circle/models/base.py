@@ -10,7 +10,7 @@ class Base:
     __nb_objects = 0
 
     def __init__(self, id=None):
-        """This method initializes variables
+        """This method is to initialize variables
         Args:
           id (integer): id
         """
@@ -23,8 +23,8 @@ class Base:
 
     @staticmethod
     def to_json_string(list_dictionaries):
-        """Documentation
-        Error
+        """Error
+        documentation
         """
 
         if list_dictionaries is None:
@@ -34,8 +34,8 @@ class Base:
 
     @classmethod
     def save_to_file(cls, list_objs):
-        """Documentation
-        Error
+        """Error
+        documentation
         """
 
         temp_dicts = []
@@ -48,8 +48,8 @@ class Base:
 
     @staticmethod
     def from_json_string(json_string):
-        """Documentation
-        Error
+        """Error
+        documentation
         """
 
         if json_string is None or json_string == '':
@@ -59,8 +59,8 @@ class Base:
 
     @classmethod
     def create(cls, **dictionary):
-        """ Documentation
-        Error
+        """Error
+        documentation
         """
 
         if cls.__name__ == 'Rectangle':
@@ -73,8 +73,8 @@ class Base:
 
     @classmethod
     def load_from_file(cls):
-        """Documentation
-        Error
+        """Error
+        documentation
         """
 
         list_instances = []
@@ -86,6 +86,3 @@ class Base:
             return list_instances
         except Exception as error:
             return []
-
-    
-
