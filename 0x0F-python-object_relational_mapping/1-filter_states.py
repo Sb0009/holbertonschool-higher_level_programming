@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Module print of database names start with N
+"""Module prints of database names start with N
 """
 import MySQLdb
 import sys
