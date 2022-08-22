@@ -13,4 +13,3 @@ if __name__ == '__main__':
     r = requests.get(url, auth=(user, password))
     json_repr = r.json()
     print(json_repr.get('id', 'None'))
-
